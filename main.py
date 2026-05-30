@@ -24,7 +24,7 @@ def pct(value: float) -> str:
 
 
 # Link do aplikacji. Podmień URL na właściwy adres formularza/aplikacji.
-APPLICATION_URL = "https://link-do-aplikacji.pl"
+APPLICATION_URL = "https://tally.so/r/44zL5o"
 
 
 # Domyślne koszty miesięczne odczytane z przesłanej tabeli.
